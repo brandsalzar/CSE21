@@ -1,0 +1,408 @@
+I - This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 1
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 10
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+10 count of Cheese @ 5.4 = 54.0
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $54.0
+-Discount: $0.0
+Total : $54.0
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 2
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Enter the name of a product 1: Shampoo
+Enter the price of the product: 12.2
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 10
+Enter the amount of Shampoo for purchase 10
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+10 count of Cheese @ 5.4 = 54.0
+10 count of Shampoo @ 12.2 = 122.0
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $176.0
+-Discount: $17.6
+Total : $158.4
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 10
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Enter the name of a product 1: Shampoo
+Enter the price of the product: 12.2
+Enter the name of a product 2: Conditioner
+Enter the price of the product: 15.4
+Enter the name of a product 3: Chips
+Enter the price of the product: 1.5
+Enter the name of a product 4: Soda
+Enter the price of the product: 2.3
+Enter the name of a product 5: Bread
+Enter the price of the product: 6.2
+Enter the name of a product 6: Apple
+Enter the price of the product: 1.2
+Enter the name of a product 7: Milk
+Enter the price of the product: 7.4
+Enter the name of a product 8: Tuition
+Enter the price of the product: 7230.5
+Enter the name of a product 9: Books
+Enter the price of the product: 20.5
+Please enter the amount to qualify for discount: 200
+Please enter the discount rate (0.1 for 10%): .2
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 3
+Enter the amount of Shampoo for purchase 2
+Enter the amount of Conditioner for purchase 1
+Enter the amount of Chips for purchase 2
+Enter the amount of Soda for purchase 3
+Enter the amount of Bread for purchase 1
+Enter the amount of Apple for purchase 1
+Enter the amount of Milk for purchase 2
+Enter the amount of Tuition for purchase 1
+Enter the amount of Books for purchase 0
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+3 count of Cheese @ 5.4 = 16.200000000000003
+2 count of Shampoo @ 12.2 = 24.4
+1 count of Conditioner @ 15.4 = 15.4
+2 count of Chips @ 1.5 = 3.0
+3 count of Soda @ 2.3 = 6.8999999999999995
+1 count of Bread @ 6.2 = 6.2
+1 count of Apple @ 1.2 = 1.2
+2 count of Milk @ 7.4 = 14.8
+1 count of Tuition @ 7230.5 = 7230.5
+0 count of Books @ 20.5 = 0.0
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $7318.6
+-Discount: $1463.7200000000003
+Total : $5854.88
+
+II - This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Shop is not setup yet
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 2
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Enter the name of a product 1: Shampoo
+Enter the price of the product: 12.2
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 5
+Enter the amount of Shampoo for purchase 2
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+5 count of Cheese @ 5.4 = 27.0
+2 count of Shampoo @ 12.2 = 24.4
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 0
+Enter the amount of Shampoo for purchase 2
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+0 count of Cheese @ 5.4 = 0.0
+2 count of Shampoo @ 12.2 = 24.4
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $24.4
+-Discount: $0.0
+Total : $24.4
+
+
+III - This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+Shop is not setup yet
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 1
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+Try Again: You have not bought anything
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 1
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+1 count of Cheese @ 5.4 = 5.4
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $5.4
+-Discount: $0.0
+Total : $5.4
+
+IV - This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 5
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Enter the name of a product 1: Soda
+Enter the price of the product: 1.5
+Enter the name of a product 2: Chips
+Enter the price of the product: 1.2
+Enter the name of a product 3: Bread
+Enter the price of the product: 2.3
+Enter the name of a product 4: Milk
+Enter the price of the product: 4.2
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 1
+Enter the amount of Soda for purchase 2
+Enter the amount of Chips for purchase 1
+Enter the amount of Bread for purchase 3
+Enter the amount of Milk for purchase 2
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+1 count of Cheese @ 5.4 = 5.4
+2 count of Soda @ 1.5 = 3.0
+1 count of Chips @ 1.2 = 1.2
+3 count of Bread @ 2.3 = 6.8999999999999995
+2 count of Milk @ 4.2 = 8.4
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 1
+
+Please enter the number of items: 2
+Enter the name of a product 0: Cheese
+Enter the price of the product: 5.4
+Enter the name of a product 1: Shampoo
+Enter the price of the product: 12.2
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 2
+
+Enter the amount of Cheese for purchase 2
+Enter the amount of Shampoo for purchase 3
+
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 3
+
+2 count of Cheese @ 5.4 = 10.8
+3 count of Shampoo @ 12.2 = 36.599999999999994
+
+This program supports 4 functions: 
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose function you want: 4
+
+Thanks for coming!
+Subtotal: $47.39999999999999
+-Discount: $0.0
+Total : $47.39999999999999

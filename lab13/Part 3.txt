@@ -1,0 +1,28 @@
+﻿1) For the proc method shown in Task 1, answer the following:
+a. What is the return type of the method, proc? What line in the above code can you find this information?
+
+
+A two dimensional array of integers. You can find that information in line 3 with the statement int[][]arr = null;
+b. What is line 3 doing? (Answer in terms of variable name, type and initial value)
+Line three is initializing a 2-dimensional array of integer type and setting the values to “empty.”
+c. Why do we need to use try in line 4?
+We utilize line four to try to run the code and catch any error that we possibly can get.
+d. What line(s) read in the dimension of the matrix?
+Lines 5-8 utilize the file reader scanner to assign the number of rows and columns.
+e. What is line 8 doing?
+Line eighth is initializing the 2-dimensional array to utilize the file input for row and column  to set the dimensions within the array and its elements.
+f. Why is there no while-loop in this method, and why we can use a for-loop?
+There is no while-loop in this method because while-loops  run as long as a value remains the same, nothing changes in this method, all values remain constant. We utilize a nested for-loop so that we can access the dimension and the elements within that dimension, one by one.
+g. How many times does line 12 get executed? (Answer in terms of an expression involving # rows and # of columns)
+If the two-dimensional array had values arr = new int [5][3] line 12 would be executed 15. All one has to do is multiply rows * columns and you can then obtain the number of times the for-loop runs.
+2) Answer the following questions concerning the code given in Task 3:
+a. What does arr2D.length mean?
+It signifies that the for-loop will run for as many rows the array has.
+b. What does arr2D[0].length mean?
+It signifies that the for-loop will run for as many columns the array has.
+c. What does arr2D[i][j] + "\t" create?
+It prints out the value stored at that particular memory location and then creates a space with “\t”.
+Activity 5.7.3 
+  
+
+Activity 5.9.2
